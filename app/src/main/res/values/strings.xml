@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">frame</string>
+
+    <string name="welcome_title">欢迎回来</string>
+    <string name="welcome_register">欢迎注册</string>
+    <string name="login_subtitle">一起学习安卓开发</string>
+    <string name="register_subtitle">从一个决定开始</string>
+    <string name="login_title">欢迎登录</string>
+    <string name="register_title">欢迎注册</string>
+
+</resources>

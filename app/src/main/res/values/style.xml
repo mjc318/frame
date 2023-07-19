@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //第一个style，给欢迎信息设置  主标题
+    <style name="TextTitleStyle">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    //第二个style，给子标题
+    <style name="SubtitleTextStyle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+   //第三个style，提示操作的文本样式  切换操作
+    <style name="AlertTextStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#6375FE</item>
+    </style>
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
